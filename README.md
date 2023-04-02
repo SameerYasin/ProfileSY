@@ -1,15 +1,19 @@
-# 👋 Hi, I'm Shrey, a developer & hacker from India.
+# 👋 Hi, I'm Sameer, a developer & hacker from India.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DD5F7&width=435&lines=Programmer;Activist;Entrepreneur;Innovator;Robotics)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF72E&width=435&lines=Programmer;Robotics;Cybersecurity;Photographer)](https://git.io/typing-svg)
+I am Sameer, a seventeen-year-old innovator, socio entrepreneur, and activist. I firmly believe in actively innovating and researching on global problems to bring about positive change. No matter what the opposition says or how tense the situations are, I always strive to do the right thing.
+I have participated in several global competitions, including "NASA HERC," where my documentation skills helped my RFP rank in the top 15 globally. As a team leader at "The New York Academy of Science," I am constantly learning and leading my teams through diverse challenges in different sectors. I am proud to have received the silver honor award from "IAAC" and to have been appointed as an ambassador.
+
+I firmly believe in giving back to the community. That is why I founded "GreenKingdom," an initiative that helps people overcome environmental and social problems that are often overlooked by authorities.
+
+I am an aspiring master of all trades who wants to ideate, innovate, and implement solutions for a better future for everyone. To accomplish this mission, I am working on different projects, such as an EMP-based Drone, Bionic Arm, AI Integrated Medical Drone, etc. I have mobilized these solutions in the market with the help of my startup, "Kaizel Tech."
 
 
-I'm a 16 year old Robotics, cybersecurity enthusiast & high school science student from India. 
-I enjoy working with frameworks like Python and crafting beautiful 3D designs and Circuits. Programming is my hobby, which eventually became my passion.
-I mostly code in Python, C++. I love working on automation, APIs & robots. I love to build bots, Robots, useless projects and apps!
-I am a huge Linux and open source software fan. I ocassionally solve DSA challenges & take part in CTF competitions. I also spend my time ricing my Linux. I love to read English literature & solving math problems XD.
-I contribute to open source projects when I'm not busy with my studies & assignments. I also maintain some open source projects on GitHub.
-I love solving maths, exploring physics and watching anime apart from playing with computers and coding. I want to become a software developer, cybersecurity professional or an entrepeneur. I am currently focusing on my studies, life and academics. 
+
+
+
 
 
 
@@ -21,10 +25,10 @@ I love solving maths, exploring physics and watching anime apart from playing wi
 ## Get In Touch
 
 
-- Instagram[@its_me.shreymehra](https://instagram.com/its_me.shreymehra)             
-- Email [shrey@shreymehra.tech](mailto:shrey@shreymehra.tech)
-- Discord : [Shrey Mehra #7819]
-- Buy me a Coffee [Shrey Mehra](https://www.buymeacoffee.com/shreymhr)
+- Instagram[@__sameer__yasin__](https://instagram.com/__sameer__yasin__?igshid=ZDdkNTZiNTM=)             
+- Email [Sameeryasin5002@gmail.com](mailto:Sameeryasin5002@gmail.com)
+- Discord : [SY#5595]
+- LinkedIn [Sameer Yasin](https://www.linkedin.com/in/sameer-yasin-ba79761b7/)
 ---
 
 Feel free to follow me to see what I create, fork or star!
